@@ -8,5 +8,6 @@ namespace SalonBellezaBO
 {
 	class Permisos
 	{
+		public int PermisoId { get; set; }
 	}
 }
